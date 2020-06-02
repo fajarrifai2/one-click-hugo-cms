@@ -35,17 +35,17 @@ intro:
     tentang kopi dan mendukung para petani yang menanamnya. Memroduksi kopi,
     pemanggangan dan pembuatan dengan serius.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Kopi Enak Tanpa Kompromi
+  description: Kami memegang kopi kami dengan standar tertinggi dari biji alami ke
+    cangkir. Itu sebabnya kami teliti dan transparan tentang setiap langkah
+    perjalanan kopi. Kami secara pribadi mengunjungi setiap petani untuk
+    memastikan kondisinya optimal untuk tanaman, petani, dan lingkungan
+    setempat.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Tampilan dekat dari filter kertas yang diisi dengan kopi bubuk
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Secangkir kopi hijau di atas meja kayu
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
