@@ -3,9 +3,10 @@ title: Contact
 logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
+    text: Jl. Untad 1 Lik Roviga
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Saturday: 9AM – 7PM We are closed on Sundays and national
+      holidays"
 ---
 Kami ingin mendengar gagasan serta pertanyaan Anda. Kami berusaha keras untuk tumbuh dan terus meningkatkan dari tanggapan dan pertanyaan  anda yang sangat berharga bagi kita.
 
