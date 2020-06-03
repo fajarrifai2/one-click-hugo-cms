@@ -1,28 +1,26 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: "Just in: small batch of Jamaican Blue Mountain in store next week"
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+description: Kami mengumumkan bahwa kami akan menawarkan sejumlah kecil biji
+  kopi Jamaica Blue Mountain di toko kami minggu depan.
+image: img/download.png
 ---
+Kami memperkirakan pengiriman dalam jumlah terbatas Senin depan. Kami akan menawarkan mulai hari Selasa, tetapi jumlahnya terbatas.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Blue Mountain Peak adalah gunung tertinggi di Jamaika dan salah satu puncak tertinggi di Karibia pada ketinggian 7.402 kaki. itu adalah letak kopi Blue Mountain dan tur terkenal mereka. Terletak di perbatasan paroki Portland dan Saint Thomas di Jamaika.
 
 ## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Blue Mountains dianggap oleh banyak orang sebagai surga pejalan kaki dan tempat berkemah. Perjalanan Blue Mountain tradisional adalah kenaikan 7 mil ke puncak dan terdiri dari peningkatan ketinggian 3.000 kaki. Orang Jamaika lebih memilih untuk mencapai puncak saat matahari terbit, sehingga kenaikan 3-4 jam biasanya dilakukan dalam kegelapan. Karena langit biasanya sangat cerah di pagi hari, Kuba dapat dilihat dari kejauhan.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+> Beberapa tanaman yang ditemukan di Blue Mountain tidak dapat ditemukan di tempat lain di dunia
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Ini terutama disebabkan oleh iklim dingin yang menghambat pertumbuhan. Komunitas petani kopi kecil Claverty Cottage dan Hagley Gap terletak di dekat puncak.
 
 ## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Jamaican Blue Mountain Coffee adalah klasifikasi kopi yang ditanam di Blue Mountains of Jamaica. Banyak kopi Blue Mountain yang terkenal karena rasanya yang ringan dan kurangnya rasa pahit. Selama beberapa dekade terakhir, kopi ini telah mengembangkan reputasi yang menjadikannya salah satu kopi paling mahal dan paling dicari di dunia. Lebih dari 80% kopi Jamaica Blue Mountain diekspor ke Jepang. Selain penggunaannya untuk kopi diseduh, buncis adalah basis rasa minuman keras kopi Tia Maria.
 
 Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
 
 The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
