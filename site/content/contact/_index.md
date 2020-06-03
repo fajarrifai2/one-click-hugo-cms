@@ -5,8 +5,8 @@ contact_entries:
   - heading: Location
     text: Jl. Untad 1 Lik Roviga
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We are closed on Sundays and National
-      Holidays"
+    text: "Monday – Saturday: 09:00 WITA – 16:30 WITA We are closed on Sundays and
+      National Holidays"
 ---
 Kami ingin mendengar gagasan serta pertanyaan Anda. Kami berusaha keras untuk tumbuh dan terus meningkatkan dari tanggapan dan pertanyaan  anda yang sangat berharga bagi kita.
 
