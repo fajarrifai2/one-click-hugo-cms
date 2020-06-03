@@ -1,6 +1,6 @@
 ---
 title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+date: 2020-06-03T01:08:55.392Z
 description: The Coffee Taster’s Flavor Wheel, sumber daya resmi yang digunakan
   oleh pencicip kopi, telah direvisi untuk pertama kalinya ditahun 2016
 image: /img/blog-flavor_wheel.jpg
